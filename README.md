@@ -39,6 +39,7 @@
 ### Github Stats
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rn-prdsj&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn-prdsj&layout=compact&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/prdsj91/
 [linkedin]: https://www.linkedin.com/in/prdsj/
