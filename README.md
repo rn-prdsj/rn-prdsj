@@ -38,13 +38,6 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
   
-
-
-  
-
-  
-
-                   
 </div>
 
 <br />
@@ -75,16 +68,6 @@
 <!-- <img width="26px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> -->
 <img width="26px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 <!-- <img width="26px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> -->
-
-
-
-
-
-
-
-
-
-
 
 <br />
 
