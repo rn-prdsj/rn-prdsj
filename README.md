@@ -38,8 +38,11 @@
 
 ### Github Stats
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rn-prdsj&show_icons=true&hide_border=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn-prdsj&layout=compact&show_icons=true&hide_border=true" />
+<div align="center">
+  <a href="https://github.com/rn-prdsj">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rn-prdsj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn-prdsj&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 [instagram]: https://www.instagram.com/prdsj91/
 [linkedin]: https://www.linkedin.com/in/prdsj/
