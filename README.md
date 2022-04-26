@@ -10,9 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-![](https://visitor-badge.glitch.me/badge?page_id=rn-prdsj.rn-prdsj)
+
+<div>
+  <a href="https://instagram.com/prdsj91" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "prdsj91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/prdsj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 <br />
 
 ### Tools :
@@ -44,5 +47,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn-prdsj&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-[instagram]: https://www.instagram.com/prdsj91/
-[linkedin]: https://www.linkedin.com/in/prdsj/
