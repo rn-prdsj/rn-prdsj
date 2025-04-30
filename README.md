@@ -3,6 +3,19 @@
 Principais tecnologias e ferramentas com as quais tenho experiência:
 
 ---
+## 📈 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rn-prdsj&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn-prdsj&layout=compact&hide_border=true&theme=transparent&border_radius=10&hide_title=true" height="150" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rn-prdsj&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
+
+</div>
+
+---
 
 ## 💻 Linguagens & Frameworks
 
