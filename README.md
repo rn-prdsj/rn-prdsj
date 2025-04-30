@@ -2,7 +2,6 @@
 
 Principais tecnologias e ferramentas com as quais tenho experiência:
 
----
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -14,8 +13,6 @@ Principais tecnologias e ferramentas com as quais tenho experiência:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rn-prdsj&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
 
 </div>
-
----
 
 ## 💻 Linguagens & Frameworks
 
