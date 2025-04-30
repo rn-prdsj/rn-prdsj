@@ -1,4 +1,4 @@
-<div style="background-color: white; padding: 20px;">
+<div style="background-color: gray; padding: 20px;">
 
   # 🚀 Core Skills
 
