@@ -7,7 +7,7 @@ Principais tecnologias e ferramentas com as quais tenho experiência:
 <div align="center">
 
   <h2>📊 GitHub Insights</h2>
-  <p>Minhas estatísticas de contribuição, linguagens e streaks no GitHub</p>
+  <p>Minhas estatísticas de contribuição e linguagens</p>
 
   <a href="https://github.com/rn-prdsj">
     <img src="https://github-readme-stats.vercel.app/api?username=rn-prdsj&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="150" />
@@ -16,6 +16,7 @@ Principais tecnologias e ferramentas com as quais tenho experiência:
   <a href="https://github.com/rn-prdsj">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn-prdsj&layout=compact&hide_border=true&theme=transparent&border_radius=10&hide_title=true" height="150" />
   </a>
+  
 </div>
 
 ## 💻 Linguagens & Frameworks
