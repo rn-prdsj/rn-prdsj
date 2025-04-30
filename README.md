@@ -1,6 +1,6 @@
 # 🚀 Minhas Core Skills
 
-Apresento abaixo as principais linguagens, frameworks, bancos de dados e ferramentas que domino e utilizo com frequência no desenvolvimento de soluções modernas e eficientes.
+Principais linguagens, frameworks, bancos de dados e ferramentas que domino e utilizo com frequência no desenvolvimento de soluções modernas e eficientes.
 
 ---
 
