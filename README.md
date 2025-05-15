@@ -1,5 +1,3 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rn-prdsj&left_text=My%20Page%20Visitors)
 
 <div align="center">
